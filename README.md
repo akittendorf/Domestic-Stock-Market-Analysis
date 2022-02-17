@@ -43,7 +43,9 @@ ERD.jpg: Entity Relationship diagram for how we set-up our SQL database schema
   arima.ipynb: Python code for creating the ARIMA model and descriptions about the decisions made for key parameters.
 
   model comparisons.ipynb: Python code used in constructing the Machine Learning Model Comparison visualization in Power BI.
-
+  
+  Requirements.txt: run pip install -r requirements.txt within the same directory to install required modules/libraries.
+  
 ### ML Models (folder, contents listed below):
 All machine learning models investigated for this project
   
