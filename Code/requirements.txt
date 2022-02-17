@@ -1,0 +1,10 @@
+###### Requirements without Version Specifiers ######
+keras
+pandas
+matplotlib
+sklearn
+datetime
+
+###### Requirements with Version Specifiers ######
+tensorflow==2.5
+numpy==1.19.5
