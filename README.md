@@ -11,13 +11,17 @@ This was created for an assignment and will likely not be updated after 2/18/202
 ## REPOSITORY FILES:
 README.md        
 
+RepeatableETLReport: An ETL document on how to extract, transform, and load data from the Alpha Vantage API into a SQL database
+
+
+### Planning (folder, contents listed below):
+
 DashboardNapkinsAndFeedback.png: rough sketch of the Power BI dashboard outline
 
 VisualizationsNapkinsAndFeedback.png: rough sketch of specific visualizations for the Power BI dashboard
 
 ERD.jpg: Entity Relationship diagram for how we set-up our SQL database schema
 
-RepeatableETLReport: An ETL document on how to extract, transform, and load data from the Alpha Vantage API into a SQL database
 
 ### Code (folder, contents listed below):
   API-Producer.ipynb: Python code used in Azure Databricks for the Producer of our Azure Data Factory.
@@ -38,7 +42,7 @@ RepeatableETLReport: An ETL document on how to extract, transform, and load data
 
   model comparisons.ipynb: Python code used in constructing the Machine Learning Model Comparison visualization in Power BI.
 
-### ML Models (folder, contents listed below)
+### ML Models (folder, contents listed below):
 All machine learning models investigated for this project
   
   LSTM_ManualSplit_model.h5
@@ -51,7 +55,7 @@ All machine learning models investigated for this project
 
   arima model
 
-### Project Specifications (folder, contents listed below)
+### Project Specifications (folder, contents listed below):
 
   Executive Summary.pdf: details the overall scope of this project
 
@@ -68,7 +72,7 @@ All machine learning models investigated for this project
   ProjectExecutiveSummary.pdf: Executive Summary covering the background of the stocks we chose to investigate, our methods and technologies used, 
   the results and discussion on our findings, and recommendations based on findings.
 
-### censusData(folder, contents listed below)
+### censusData(folder, contents listed below):
 
   .xls and .xlsx files: raw data from the Census that include historical US total revenue for the given year
 
