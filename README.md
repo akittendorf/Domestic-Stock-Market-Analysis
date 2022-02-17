@@ -13,6 +13,8 @@ README.md
 
 RepeatableETLReport: An ETL document on how to extract, transform, and load data from the Alpha Vantage API into a SQL database
 
+ProjectExecutiveSummary.pdf: Executive Summary covering the background of the stocks we chose to investigate, our methods and technologies used, 
+  the results and discussion on our findings, and recommendations based on findings.
 
 ### Planning (folder, contents listed below):
 
@@ -56,8 +58,6 @@ All machine learning models investigated for this project
   arima model
 
 ### Project Specifications (folder, contents listed below):
-
-  Executive Summary.pdf: details the overall scope of this project
 
   Exploratory Questions.pdf: outlines the questions that this project addresses
 
