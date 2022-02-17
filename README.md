@@ -38,6 +38,19 @@ RepeatableETLReport: An ETL document on how to extract, transform, and load data
 
   model comparisons.ipynb: Python code used in constructing the Machine Learning Model Comparison visualization in Power BI.
 
+### ML Models (folder, contents listed below)
+All machine learning models investigated for this project
+  
+  LSTM_ManualSplit_model.h5
+
+  LassoCV model.model
+
+  Linear Regression model.model
+
+  SARIMAX joblib.model
+
+  arima model
+
 ### Project Specifications (folder, contents listed below)
 
   Executive Summary.pdf: details the overall scope of this project
