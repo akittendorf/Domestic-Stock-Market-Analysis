@@ -72,11 +72,11 @@ All machine learning models investigated for this project
   [ProjectExecutiveSummary.pdf](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/Project%20Specifications/ProjectExecutiveSummary.pdf): Executive Summary covering the background of the stocks we chose to investigate, our methods and technologies used, 
   the results and discussion on our findings, and recommendations based on findings.
 
-### censusData(folder, contents listed below):
+### [censusData](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/tree/main/censusData) (folder, contents listed below):
 
   .xls and .xlsx files: raw data from the Census that include historical US total revenue for the given year
 
-  USrevenue.csv: compiled data from the .xls and .xlsx files
+  [USrevenue.csv](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/censusData/USrevenue.csv): compiled data from the .xls and .xlsx files
 
 ## AUTHORS:
 yvcvs, dbode777, TKorby, akittendorf
