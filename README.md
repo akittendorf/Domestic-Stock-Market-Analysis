@@ -36,7 +36,7 @@ This was created for an assignment and will likely not be updated after 2/18/202
 
   [```Linear Regression and LassoCV Model for Capstone Project.ipynb```](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/Code/Linear%20Regression%20and%20LassoCV%20Model%20for%20Capstone%20Project.ipynb): Python code used to create the Linear Regression and LassoCV models. 
 
-  [Visualizations.ipynb](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/Code/Visualizations.ipynb): Contains all Python code used for creating the visualizations in Power BI that used Python scripting (with the exception of the Machine Learning Model comparisons and Historical Price vs. Total US revenue visualizations)
+  [Python Visualizations for Power Bi Dashboard.ipynb](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/Code/Python%20Visualizations%20for%20Power%20Bi%20Dashboard.ipynb): Contains all Python code used for creating the visualizations in Power BI that used Python scripting (with the exception of the Machine Learning Model comparisons and Historical Price vs. Total US revenue visualizations)
 
   [arimax.ipynb](https://github.com/akittendorf/Domestic-Stock-Market-Analysis/blob/main/Code/arimax.ipynb): Python code for creating the ARIMA model and descriptions about the decisions made for key parameters.
 
